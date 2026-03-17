@@ -111,4 +111,4 @@ SUMMARY TABLE:
 | Claude   | 5        | 4         | 4          | 4     | 4               |
 
 RESULT:
-Thus, the prompt input in different AI platforms and compare them is completed successfully.
+Thus, the prompt input in different AI platforms and compare them is completed successfully.   
